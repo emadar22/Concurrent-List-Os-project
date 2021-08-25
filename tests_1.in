@@ -1,0 +1,59 @@
+create_list
+insert_value 2
+insert_value 5
+insert_value 4
+insert_value 3
+insert_value 9
+insert_value 15
+insert_value 8
+insert_value 17
+insert_value 15
+insert_value 5
+insert_value 1
+insert_value -2
+insert_value 0
+print_list
+remove_value 0
+remove_value 4
+remove_value 3
+remove_value 2
+insert_value 3
+remove_value 5
+insert_value 3
+remove_value 3
+remove_value -2
+insert_value 3
+remove_value 17
+print_list
+delete_list
+create_list
+insert_value 1
+insert_value 2
+insert_value 3
+insert_value 4
+insert_value 5
+insert_value 6
+insert_value 8
+insert_value 9
+insert_value 10
+insert_value 12
+insert_value 13
+insert_value 14
+insert_value 7
+insert_value 15
+insert_value 16
+insert_value 17
+insert_value 18
+insert_value 19
+insert_value 20
+insert_value 21
+insert_value 11
+print_list
+count_greater 3
+count_greater 5
+count_greater 6
+remove_value 21
+count_greater 20
+print_list
+delete_list
+exit
